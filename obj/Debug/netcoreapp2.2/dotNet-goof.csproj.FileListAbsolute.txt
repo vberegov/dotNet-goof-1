@@ -19,3 +19,13 @@
 /Users/mattbrown/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.AssemblyInfo.cs
 /Users/mattbrown/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.dll
 /Users/mattbrown/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.pdb
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/bin/Debug/netcoreapp2.2/dotNet-goof.deps.json
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/bin/Debug/netcoreapp2.2/dotNet-goof.runtimeconfig.json
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/bin/Debug/netcoreapp2.2/dotNet-goof.runtimeconfig.dev.json
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/bin/Debug/netcoreapp2.2/dotNet-goof.dll
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/bin/Debug/netcoreapp2.2/dotNet-goof.pdb
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.csprojAssemblyReference.cache
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.AssemblyInfoInputs.cache
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.AssemblyInfo.cs
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.dll
+/Users/mattbrown/Desktop/Snyk/DemoPrograms/Git/GitHub/dotNet-goof/obj/Debug/netcoreapp2.2/dotNet-goof.pdb
